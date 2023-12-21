@@ -3,9 +3,13 @@
 }
 */
 
-.html{
-    float: left;
-}
 .html2{
     text-align: justify;
+}
+
+.sp{
+    background: url('drone.jpg');
+    background-repeat: none;
+
+    
 }
